@@ -5,7 +5,7 @@
 class UF {
     vector<int> root;
     vector<int> size;
-    int count;
+    int count;  // No Of components
 public:
     UF(int N) {
         count = N;
@@ -40,11 +40,11 @@ public:
             
         if(size[P] < size[Q]) {
             root[rootP] = rootQ;
-            size[rootP] += size[Q];
+            size[rootQ] += size[P];
         }
         else {
             root[rootQ] = rootP;
-            size[rootQ] += size[P];
+            size[rootP] += size[Q];
         }
             
         --count;
