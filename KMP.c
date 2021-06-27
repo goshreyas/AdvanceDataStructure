@@ -12,8 +12,14 @@ for(int j = 1; j < n_len; j++) {
 	KMP[j] = i;
 }
 ---------------------------------------------------------------------------------
-
-
+        //KMP-algorithm:
+        //Pre-process
+        int k = 0, i;
+        for(i = 1; i < needle.size(); i++) {
+            while(k > 0  && needle[k] != needle[i]) k = pi[k - 1];
+            if(needle[k] == needle[i]) pi[i] = ++k;
+        }
+---------------------------------------------------------------------------------
 
 Problems
  - LC#28: https://leetcode.com/problems/implement-strstr/
