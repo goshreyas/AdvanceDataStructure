@@ -26,7 +26,7 @@ vector<int> getKMP(string &str) {
  }
 ---------------------------------------------------------------------------------
 
-Problems
+Problems:
  - LC#28: https://leetcode.com/problems/implement-strstr/
  - LC#214: https://leetcode.com/problems/shortest-palindrome/
  - LC#459: https://leetcode.com/problems/repeated-substring-pattern/
