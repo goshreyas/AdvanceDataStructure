@@ -1,5 +1,5 @@
 
-
+https://leetcode.com/problems/implement-strstr/discuss/13153/KMP-Algorithm-using-C%2B%2B
 ---------------------------------------------------------------------------------
 n_len = n_str.size();
 vector<int> KMP(n_len, 0); // KMP: Knuth–Morris–Pratt Pattern Matching
