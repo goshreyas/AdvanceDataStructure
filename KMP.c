@@ -18,3 +18,6 @@ for(int j = 1; j < n_len; j++) {
 Problems
 https://leetcode.com/problems/implement-strstr/
 
+
+https://onedrive.live.com/view.aspx?resid=3CAC955227001544%21351&id=documents&wd=target%28DS-Algo%2FAdv-Algorithm.one%7C22477E41-936F-AA42-B48F-E364CD39A136%2FKMP%20%28sub%20string%20search%5C%29%7CFF19C48D-9FF8-244D-A16E-7836CD1B0420%2F%29
+onenote:https://d.docs.live.net/3cac955227001544/Documents/Go!/DS-Algo/Adv-Algorithm.one#KMP%20(sub%20string%20search)&section-id={22477E41-936F-AA42-B48F-E364CD39A136}&page-id={FF19C48D-9FF8-244D-A16E-7836CD1B0420}&end
