@@ -57,5 +57,6 @@ Problems:
 2. https://leetcode.com/problems/redundant-connection/
 3. https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 4. https://leetcode.com/problems/rank-transform-of-a-matrix/
+5. https://leetcode.com/problems/synonymous-sentences/
 
 
