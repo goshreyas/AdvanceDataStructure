@@ -58,5 +58,5 @@ Problems:
 3. https://leetcode.com/problems/optimize-water-distribution-in-a-village/
 4. https://leetcode.com/problems/rank-transform-of-a-matrix/
 5. https://leetcode.com/problems/synonymous-sentences/
-
+6. https://leetcode.com/problems/largest-component-size-by-common-factor/
 
