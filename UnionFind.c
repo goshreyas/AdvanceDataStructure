@@ -59,4 +59,5 @@ Problems:
 4. https://leetcode.com/problems/rank-transform-of-a-matrix/
 5. https://leetcode.com/problems/synonymous-sentences/
 6. https://leetcode.com/problems/largest-component-size-by-common-factor/
+7. https://leetcode.com/problems/smallest-string-with-swaps/
 
