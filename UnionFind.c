@@ -61,6 +61,11 @@ Problems:
 6. https://leetcode.com/problems/largest-component-size-by-common-factor/
 7. https://leetcode.com/problems/smallest-string-with-swaps/
 8. https://leetcode.com/problems/number-of-islands-ii/
+9. https://leetcode.com/problems/satisfiability-of-equality-equations/
+
+
+
+
 
 
 
