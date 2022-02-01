@@ -62,7 +62,7 @@ Problems:
 7. https://leetcode.com/problems/smallest-string-with-swaps/
 8. https://leetcode.com/problems/number-of-islands-ii/
 9. https://leetcode.com/problems/satisfiability-of-equality-equations/
-
+10. https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/
 
 
 
